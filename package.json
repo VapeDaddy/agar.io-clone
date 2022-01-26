@@ -4,7 +4,7 @@
   "description": "A simple Agar.io clone",
   "main": "server/server.js",
   "engines": {
-      "node": "8.0.0
+      "node": "8.0.0"
   },
   "scripts": {
     "build": "gulp build",
